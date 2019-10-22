@@ -14,3 +14,6 @@ This project uses the NODEMCU platform.
 
 The 9g servos had to be modified for continous rotation. Follow instructions online to do this.
 
+#### **Connections**
+-left servo: d0
+-right servo: d1
