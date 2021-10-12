@@ -3,7 +3,7 @@
 The goal was to create a simple project to demonstrate the the ESP8266 wifi chip.  
 This project uses the NODEMCU platform.  
 
-See evernote for more information: https://www.evernote.com/shard/s507/sh/fc2e9600-f4bb-4293-a683-a387c12b491e/4108d826cf1f365cc647c4ed52d6a594
+See evernote for more information (only accessible to Khazanah Interns): https://www.evernote.com/shard/s507/sh/fc2e9600-f4bb-4293-a683-a387c12b491e/4108d826cf1f365cc647c4ed52d6a594
 
 #### **Parts**
 
